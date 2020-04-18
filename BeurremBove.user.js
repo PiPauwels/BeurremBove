@@ -30,18 +30,17 @@ function replace(dom)
     }
 }
 const GOOGLE = 0;
-    const FACEBOOK = 1;
-    const TWITTER = 2;
-    const BORNEM = 3;
-
-    let website = -1;
-    let selectors = [];
-    let replacedFlag = false;
-    const url = window.location.href;
-    if (url.indexOf('mail.google.com') != -1) website = GOOGLE;
-    if (url.indexOf('facebook.com') != -1) website = FACEBOOK;
-    if (url.indexOf('twitter.com') != -1) website = TWITTER;
-    if (url.indexOf('bornem.be') != -1) website = BORNEM;
+const FACEBOOK = 1;
+const TWITTER = 2;
+const BORNEM = 3;
+let website = -1;
+let selectors = [];
+let replacedFlag = false;
+const url = window.location.href;
+if (url.indexOf('mail.google.com') != -1) website = GOOGLE;
+if (url.indexOf('facebook.com') != -1) website = FACEBOOK;
+if (url.indexOf('twitter.com') != -1) website = TWITTER;
+if (url.indexOf('bornem.be') != -1) website = BORNEM;
 setWebsite();
 
 function parse()
