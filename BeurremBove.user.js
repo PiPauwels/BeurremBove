@@ -1,8 +1,5 @@
 // ==UserScript==
 // @name         Beurrem Bove!
-// @namespace    http://tampermonkey.net/
-// @description  Keert jouw maag, trots toevend in een fiere Bornemmenaar, zich ook telkens bij het zien van de verwerpelijke hashtag #Beurm en afgeleiden? Dan is dit je kans om er iets aan te doen. Beurrem Bove!
-// @author       PiPauwels
 // @include      https://mail.google.com/mail/u/0/
 // @include      https://www.facebook.com/*
 // @include      https://twitter.com/*
