@@ -6,6 +6,9 @@
 // @include      https://www.bornem.be/*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js
 // @grant        none
+// @namespace    http://tampermonkey.net/
+// @description  Keert jouw maag, trots toevend in een fiere Bornemmenaar, zich ook telkens bij het zien van de verwerpelijke hashtag #Beurm en afgeleiden? Dan is dit je kans om er iets aan te doen. Beurrem Bove!
+// @author       PiPauwels
 // ==/UserScript==
 
 function replace(dom)
