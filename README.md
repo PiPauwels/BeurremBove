@@ -7,7 +7,11 @@ Concreet is dit script actief op Gmail, Facebook, Twitter en de website van de g
 * Beurmeneir, Beurmenaar, ... ⇒ Beurremeneir
 * Bornemnaar ⇒ Bornemmenaar
 
-... en zorgt het steevast voor de hoofdletter 'B'.
+... en zorgt het steevast voor de hoofdletter 'B'. Enkele voorbeelden:
+![Gmail](https://2.bp.blogspot.com/-QinAJnbkAzM/XprrFitd_SI/AAAAAAAAkEQ/ZClz1Zg0gvIzS9k09399oAhX6lidrAsEgCLcBGAsYHQ/s640/beurrem.gmail.png)
+![Facebook](https://1.bp.blogspot.com/-1Sxy-sGv4CM/XprrONisKeI/AAAAAAAAkEU/peojtdAMQR4CyBGtvYm5Yvc-zvbENNwVwCLcBGAsYHQ/s640/beurrem.facebook.png)
+![Twitter](https://1.bp.blogspot.com/-I-5v6ssLMWQ/XprrSuX2KWI/AAAAAAAAkEY/nAKLhKa0mlspAK1GfTvrAhfwUereorM7wCLcBGAsYHQ/s640/beurrem.twitter.png)
+![Bornem.be](https://1.bp.blogspot.com/-x7Pd6hxa_Hg/XprrXIQmpsI/AAAAAAAAkEg/-ylELRCdG70Tb8Bi9phOX98zJbBpeFGNACLcBGAsYHQ/s640/beurrem.bornem.png)
 
 ## Script installeren
 
